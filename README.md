@@ -31,7 +31,7 @@ The code is organized as follows:
 - PIL (Python Imaging Library)
 
 ## Usage
-1. Clone this repository to your local machine: `git clone https://github.com/anujkhanvilkar/TCI-Net-A-Deep-Learning-Approach-for-Tropical-Cyclone-Intensity-Prediction.git`
+1. Clone this repository to your local machine: `https://github.com/anujkhanvilkar/TCI-Net-A-Deep-Learning-Approach-for-Tropical-Cyclone-Intensity-Prediction.git`
 2. Download the Tropical Cyclone Image Dataset from the link provided above.
 3. Place the downloaded dataset in the appropriate directory.
 4. Open and run the Jupyter notebook `Model_Training.ipynb` to perform data preprocessing and training.
